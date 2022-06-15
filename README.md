@@ -1,2 +1,4 @@
-# HyperionDev-Code---Take-home-Test
-HyperionDev Freelance Code Reviewer Take-Home Test
+# Section A - Python Review
+
+This is a code review for anagram.py
+
